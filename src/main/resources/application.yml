@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: all-of-batch
+  datasource:
+    url: jdbc:mysql://mysql:33067/sample
+    username: sample
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
